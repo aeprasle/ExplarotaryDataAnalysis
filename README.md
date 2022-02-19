@@ -1,4 +1,4 @@
-# Explarotary Data Analysis
+# Exploratory Data Analysis
 <h3>Introduction</h3>
 Part of the module <b>Exploratory Data Analysis</b> are 2 Project assignments: 
 
